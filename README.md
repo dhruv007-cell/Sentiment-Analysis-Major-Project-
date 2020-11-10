@@ -9,7 +9,7 @@ This is a real world project on Sentiment Analysis which takes in text input fro
   2. Preprocessing of data: 
         - Lower casing the text
         - Expanding contractions
-        - Removing punctuations
+        - Removing punctuations and special characters
         - Removing stopwords
         - Tokenization
         - Lemmatization
