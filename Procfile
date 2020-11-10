@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run sentiment_analysis.py
+web: sh setup.sh && streamlit run sent-analysis-app.py
