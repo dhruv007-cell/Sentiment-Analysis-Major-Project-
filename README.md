@@ -1,4 +1,4 @@
-# Sentiment-Analysis-Major-Project 
+#  Sentiment-Analysis-Major-Project 
 
 This is a real world project on Sentiment Analysis which takes in text input from the user and predicts if the sentiment of the text is positive or negative.
 
