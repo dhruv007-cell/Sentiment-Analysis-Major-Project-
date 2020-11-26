@@ -23,7 +23,7 @@ This is a real world project on Sentiment Analysis which takes in text input fro
   4. Deployment of Model:
   
         - Creating a web application using Streamlit
-        - Deploying it using Heroku Cloud Service
+        - Deploying it using Heroku Cloud Service 
 
 
 
