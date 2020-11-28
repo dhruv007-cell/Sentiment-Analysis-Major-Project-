@@ -28,5 +28,5 @@ This is a real world project on Sentiment Analysis which takes in text input fro
 
 
 
-The following is thelink to the web app:
+The following is the link to the web app:
 # https://sent-analysis-app.herokuapp.com/  
